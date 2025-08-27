@@ -2,3 +2,5 @@
 Nama : Keisha Vania Laurent
 NPM : 2406437331
 Kelas : PBP B
+Hobi : Tidur
+Jurusan : Ilmu Komputer
